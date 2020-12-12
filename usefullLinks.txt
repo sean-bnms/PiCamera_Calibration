@@ -1,0 +1,5 @@
+Links that helped me calibrate my PiCamera with a Charuco Bord
+
+A camera calibration tutorial with Charuco Board (Python) : https://mecaruco.readthedocs.io/en/latest/notebooks_rst/aruco_calibration.html
+Official documentation of picamera : https://picamera.readthedocs.io/en/release-1.13/recipes2.html 
+YouTube video on how to install OpenCv on Raspberry Pi : https://www.youtube.com/watch?v=xlmJsTeZL3w 
