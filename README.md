@@ -1,4 +1,7 @@
 # PiCamera_Calibration
+
+<p align='justify'>
+
 PiCamera v2 calibration with Charuco board in Python.
 ## How to use the files ?
 
@@ -13,3 +16,5 @@ The calibration.py file enables to store the camera parameters in a .txt file.
 
 ### Images folder
 It contains the images used for this calibration process.
+
+</p>
